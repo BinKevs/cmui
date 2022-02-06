@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cmui/static/css/main.131d4b21.chunk.css",
-    "main.js": "/cmui/static/js/main.f632bf0d.chunk.js",
-    "main.js.map": "/cmui/static/js/main.f632bf0d.chunk.js.map",
+    "main.css": "/cmui/static/css/main.640045cc.chunk.css",
+    "main.js": "/cmui/static/js/main.59686987.chunk.js",
+    "main.js.map": "/cmui/static/js/main.59686987.chunk.js.map",
     "runtime-main.js": "/cmui/static/js/runtime-main.0d17cb3a.js",
     "runtime-main.js.map": "/cmui/static/js/runtime-main.0d17cb3a.js.map",
     "static/js/2.75a0ea11.chunk.js": "/cmui/static/js/2.75a0ea11.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.49397e28.chunk.js": "/cmui/static/js/3.49397e28.chunk.js",
     "static/js/3.49397e28.chunk.js.map": "/cmui/static/js/3.49397e28.chunk.js.map",
     "index.html": "/cmui/index.html",
-    "static/css/main.131d4b21.chunk.css.map": "/cmui/static/css/main.131d4b21.chunk.css.map",
+    "static/css/main.640045cc.chunk.css.map": "/cmui/static/css/main.640045cc.chunk.css.map",
     "static/js/2.75a0ea11.chunk.js.LICENSE.txt": "/cmui/static/js/2.75a0ea11.chunk.js.LICENSE.txt",
     "static/media/CVAL-logo.e9f0d756.png": "/cmui/static/media/CVAL-logo.e9f0d756.png",
     "static/media/index.css": "/cmui/static/media/landing-bg.af3760f2.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.0d17cb3a.js",
     "static/js/2.75a0ea11.chunk.js",
-    "static/css/main.131d4b21.chunk.css",
-    "static/js/main.f632bf0d.chunk.js"
+    "static/css/main.640045cc.chunk.css",
+    "static/js/main.59686987.chunk.js"
   ]
 }
