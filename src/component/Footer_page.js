@@ -11,7 +11,7 @@ class Footer_page extends React.Component {
               <div className="text-six-black-color  lg:text-2xl text-lg ">
                 CARNIVAL METAVERSE
               </div>
-              <div className="text-white lg:text-6xl text-4xl">
+              <div className="text-six-green-color lg:text-6xl text-4xl">
                 SET THE WORLD ON FUN
               </div>
             </div>
@@ -20,18 +20,18 @@ class Footer_page extends React.Component {
                 WHITEPAPER
               </div>
               <div className="bg-seven-black-color lg:py-6 py-3 text-center lg:text-2xl lg:rounded-3xl rounded-xl text-white font-bold">
-                WHITEPAPER
+                $CVAL TOKEN
               </div>
               <div className="bg-seven-black-color lg:py-6 py-3 text-center lg:text-2xl lg:rounded-3xl rounded-xl text-white font-bold">
-                WHITEPAPER
+                COLOR GAME (ALPHA)
               </div>
             </div>
             <div className="grid lg:grid-cols-2 grid-cols-1 lg:gap-10 gap-5 lg:w-2/3 mx-auto">
               <div className="bg-seven-black-color lg:py-6 py-3 text-center lg:text-2xl lg:rounded-3xl rounded-xl text-white font-bold">
-                WHITEPAPER
+                CARNIVAL METAVERSE
               </div>
               <div className="bg-seven-black-color lg:py-6 py-3 text-center lg:text-2xl lg:rounded-3xl rounded-xl text-white font-bold">
-                WHITEPAPER
+                CONTACT US
               </div>
             </div>
           </div>

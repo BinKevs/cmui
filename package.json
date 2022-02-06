@@ -1,8 +1,8 @@
 {
+  "homepage": "https://binkevs.github.io/cmui/",
   "name": "candy-machine-mint",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://degenmirrordao.com/officialmintinglink",
   "dependencies": {
     "@babel/runtime": "^7.15.5",
     "@civic/solana-gateway-react": "^0.4.8",
@@ -44,12 +44,13 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject",
-    "deploy:gh": "gh-pages -d ./build/ --repo https://github.com/pit-v/metaplex -t true --branch gh-pages-3",
-    "deploy": "cross-env ASSET_PREFIX=/metaplex/ yarn build && yarn deploy:gh"
+    "eject": "react-scripts eject"
+
   },
   "eslintConfig": {
     "extends": [
@@ -71,6 +72,7 @@
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.14",
+    "gh-pages": "^3.2.3",
     "postcss-cli": "^9.1.0"
   }
 }

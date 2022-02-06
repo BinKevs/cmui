@@ -29,6 +29,7 @@ module.exports = {
         "third-green-color": "#41F96A",
         "fourth-green-color": "#32E178",
         "fifth-green-color": "#00D64C",
+        "six-green-color": "#05FF00",
 
         "first-red-color": "#DC0F0F",
 
