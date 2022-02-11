@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cmui/static/css/main.640045cc.chunk.css",
-    "main.js": "/cmui/static/js/main.59686987.chunk.js",
-    "main.js.map": "/cmui/static/js/main.59686987.chunk.js.map",
+    "main.js": "/cmui/static/js/main.1dbcf7d6.chunk.js",
+    "main.js.map": "/cmui/static/js/main.1dbcf7d6.chunk.js.map",
     "runtime-main.js": "/cmui/static/js/runtime-main.0d17cb3a.js",
     "runtime-main.js.map": "/cmui/static/js/runtime-main.0d17cb3a.js.map",
     "static/js/2.75a0ea11.chunk.js": "/cmui/static/js/2.75a0ea11.chunk.js",
@@ -14,13 +14,15 @@
     "static/js/2.75a0ea11.chunk.js.LICENSE.txt": "/cmui/static/js/2.75a0ea11.chunk.js.LICENSE.txt",
     "static/media/CVAL-logo.e9f0d756.png": "/cmui/static/media/CVAL-logo.e9f0d756.png",
     "static/media/index.css": "/cmui/static/media/landing-bg.af3760f2.png",
-    "static/media/Cval-token-img.d0dbd53d.png": "/cmui/static/media/Cval-token-img.d0dbd53d.png",
+    "static/media/Cval-token-img.d944e927.png": "/cmui/static/media/Cval-token-img.d944e927.png",
     "static/media/basketball.edaf0486.png": "/cmui/static/media/basketball.edaf0486.png",
     "static/media/carnival-metaverse-logo.70f1fc4a.png": "/cmui/static/media/carnival-metaverse-logo.70f1fc4a.png",
     "static/media/claw-machine.43aa688e.png": "/cmui/static/media/claw-machine.43aa688e.png",
     "static/media/close.922c860c.png": "/cmui/static/media/close.922c860c.png",
+    "static/media/clown_img.1a8b9475.png": "/cmui/static/media/clown_img.1a8b9475.png",
     "static/media/color-game-icon.164d1555.png": "/cmui/static/media/color-game-icon.164d1555.png",
     "static/media/color-game-img.51ae6d20.png": "/cmui/static/media/color-game-img.51ae6d20.png",
+    "static/media/coming-soon.aa8781b3.png": "/cmui/static/media/coming-soon.aa8781b3.png",
     "static/media/fusion_upgrade_img.9e830734.png": "/cmui/static/media/fusion_upgrade_img.9e830734.png",
     "static/media/landing-color-game.1d854790.png": "/cmui/static/media/landing-color-game.1d854790.png"
   },
@@ -28,6 +30,6 @@
     "static/js/runtime-main.0d17cb3a.js",
     "static/js/2.75a0ea11.chunk.js",
     "static/css/main.640045cc.chunk.css",
-    "static/js/main.59686987.chunk.js"
+    "static/js/main.1dbcf7d6.chunk.js"
   ]
 }
